@@ -1,3 +1,3 @@
 # auto-steam-slot
 
-exeフォルダのexeを起動してください。
+exeフォルダのexeを起動してね
